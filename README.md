@@ -24,3 +24,6 @@ npx hardhat help
 `const hardhat = require("hardhat")`
 
 
+# To Deploy
+- npx hardhat run scripts/deploy.js --network rinkeby
+
